@@ -1,0 +1,42 @@
+body {
+  background-color:  #B0C4DE;
+  font-family: "times new roman", times, serif;
+}
+h1 {
+   color:  #8A2BE2;
+  text-align: center;
+  font-size: 50px;
+}
+img {
+  border-radius: 70%;
+}
+p {
+  color: #8A2BE2;
+  font-size:25px;
+  float: left;
+}
+.container{
+    display: flex;
+    align-items: center;
+    height:auto;
+    margin-top: 25px;
+}
+#legenda {
+   color: #8A2BE2;
+      text-align: center;
+      border: thin silver solid;
+      margin: 0.5em;
+      padding: 0.5em;
+}
+#volei {
+  float: right;    
+}
+#pessoas {
+  float: right;
+} 
+#pessoas2 {
+  float: right;
+}
+#botao {
+float: left;
+}
